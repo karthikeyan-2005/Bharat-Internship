@@ -4,9 +4,9 @@
 
 **Programs**
 
-[1. House Prediction Program](https://github.com/karthikeyan-2005/Bharat-Internship/blob/main/Programs/House%20Prediction%20Program.ipynb)
+[1. House Price Prediction Program](https://github.com/karthikeyan-2005/Bharat-Internship/blob/main/Programs/House%20Prediction%20Program.ipynb)
 
-[2. Iris Program](https://github.com/karthikeyan-2005/Bharat-Internship/blob/main/Programs/Iris%20Program.ipynb)
+[2. Iris Flower Classification Program](https://github.com/karthikeyan-2005/Bharat-Internship/blob/main/Programs/Iris%20Program.ipynb)
 
 **Data for Programs**
 
